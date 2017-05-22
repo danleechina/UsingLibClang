@@ -1,0 +1,5 @@
+#project
+**/*.xccheckout
+**/*.xcscmblueprint
+**/contents.xcworkspacedata
+**/xcuserdata/*
